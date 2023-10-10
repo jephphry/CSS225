@@ -1,0 +1,7 @@
+# Jeff Almaraz
+
+# 10/10/23
+
+# prints "hello world"  on the screen
+
+print("Hello World")
